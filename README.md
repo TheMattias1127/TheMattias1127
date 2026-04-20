@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="Space" width="100%" />
+  <img src="Space.jpg" width="100%" />
 
   # Hi! 👋 I'm Matias Sanchez
   
